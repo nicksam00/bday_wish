@@ -1,6 +1,6 @@
 // Button click action - open link
 document.getElementById("surpriseBtn").addEventListener("click", () => {
-  window.open("https://www.youtube.com/"); // Apna link yaha daalo
+  window.open("https://bdayname.onrender.com"); // Apna link yaha daalo
 });
 
 // Confetti animation
