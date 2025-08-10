@@ -1,6 +1,6 @@
-// Button click action - open link
+// Button click action - open link in same tab
 document.getElementById("surpriseBtn").addEventListener("click", () => {
-  window.open("https://bdayname.onrender.com"); // Apna link yaha daalo
+  window.location.href = "https://bdayname.onrender.com"; // Apna link yaha daalein
 });
 
 // Confetti animation
